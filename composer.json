@@ -1,15 +1,15 @@
 {
-    "name": "evert/google-api-php-client",
+    "name": "stansmet/google-api-php-client",
     "type": "library",
     "description": "Google API library for PHP",
     "keywords": ["google","gdata"],
-    "homepage": "https://github.com/evert/google-api-php-client",
+    "homepage": "http://smetanin-online.name",
     "license": "Apache 2.0",
     "authors": [
         {
-            "name": "Evert Pot",
-            "email": "evert@rooftopsolutions.nl",
-            "homepage": "http://www.rooftopsolutions.nl/"
+            "name": "Stanislaw Smetanin",
+            "email": "stanislaw@smetanin-online.name",
+            "homepage": "http://smetanin-online.name"
         }
     ],
     "require": {
